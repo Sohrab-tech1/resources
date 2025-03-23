@@ -2,6 +2,9 @@
 
 # A place to store resources for learning and building
 
+# MCP:s
+- [MCP deepdive](https://a16z.com/a-deep-dive-into-mcp-and-the-future-of-ai-tooling/) 
+
 # Component libraries
 
 - [Tailwind CSS](https://tailwindcss.com/)
