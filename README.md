@@ -13,7 +13,7 @@
 - [Tailwind CSS Templates](https://tailwindtemplates.io/)
 - [Tailwind CSS Playground](https://play.tailwindcss.com/)
 
-# Shadcn related
+## Shadcn related
 
 – [marketing blocks ] (https://nsui.irung.me/)
 
