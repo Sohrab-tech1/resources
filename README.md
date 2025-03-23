@@ -10,6 +10,10 @@
 - [Tailwind CSS Templates](https://tailwindtemplates.io/)
 - [Tailwind CSS Playground](https://play.tailwindcss.com/)
 
+# Shadcn related
+
+– [marketing blocks ] (https://nsui.irung.me/)
+
 # Remix
 
 - [Remix Docs](https://remix.run/docs)
