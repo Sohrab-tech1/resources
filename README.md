@@ -2,8 +2,61 @@
 
 # A place to store resources for learning and building
 
-# MCP:s
+# Machine learning 
+
+## MCP:s
 - [MCP deepdive](https://a16z.com/a-deep-dive-into-mcp-and-the-future-of-ai-tooling/) 
+
+- [The MCP map]
+https://d1lamhf6l6yk6d.cloudfront.net/uploads/2025/03/250319-MCP-Market-Map-v2-x2000.png
+
+## Background jobs (executive functioning) 
+
+(https://www.inngest.com/)
+(https://www.trigger.dev/)
+(https://blog.cloudflare.com/building-workflows-durable-execution-on-workers/)
+
+## Agentic frameworks 
+
+– [Crew]
+– [Swarm]
+
+## Model SDK:s
+
+## Assistant 
+
+## Database-search
+
+## Websearch and browsing 
+(https://github.com/mendableai/firecrawl-mcp-server)
+
+## Auto-MCP
+(https://mintlify.com/blog/generate-mcp-servers-for-your-docs) 
+
+## Email 
+(https://github.com/resend/mcp-send-email/tree/main)
+
+## Image generation
+(https://github.com/deepfates/mcp-replicate)
+
+## 3D design (blender, autocad) 
+(https://x.com/sidahuj/status/1901632110395265452)
+
+## Language to interface directly in Cursor (enables "Vibe coding" as in V0/Loveable/ interface directly in Cursor)
+(https://github.com/21st-dev/magic-mcp) 
+
+## Postgres
+(https://github.com/modelcontextprotocol/servers/tree/main/src/postgres)
+(https://github.com/upstash/mcp-server)
+
+
+## Browserlogs in Cursor
+(https://github.com/AgentDeskAI/browser-tools-mcp)
+
+
+## Slack
+(https://github.com/modelcontextprotocol/servers/tree/main/src/slack)
+
 
 # Component libraries
 
