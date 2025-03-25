@@ -49,6 +49,9 @@ https://d1lamhf6l6yk6d.cloudfront.net/uploads/2025/03/250319-MCP-Market-Map-v2-x
 (https://github.com/modelcontextprotocol/servers/tree/main/src/postgres)
 (https://github.com/upstash/mcp-server)
 
+## Stripe
+(https://github.com/stripe/agent-toolkit/tree/main/modelcontextprotocol)
+
 
 ## Browserlogs in Cursor
 (https://github.com/AgentDeskAI/browser-tools-mcp)
