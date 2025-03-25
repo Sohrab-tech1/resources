@@ -18,6 +18,9 @@ https://d1lamhf6l6yk6d.cloudfront.net/uploads/2025/03/250319-MCP-Market-Map-v2-x
 
 ## Agentic frameworks 
 
+## Deploying MCP:s on Cloudflare
+(https://blog.cloudflare.com/remote-model-context-protocol-servers-mcp/)
+
 – [Crew]
 – [Swarm]
 
