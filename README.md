@@ -48,10 +48,12 @@ https://d1lamhf6l6yk6d.cloudfront.net/uploads/2025/03/250319-MCP-Market-Map-v2-x
 ## Language to interface directly in Cursor (enables "Vibe coding" as in V0/Loveable/ interface directly in Cursor)
 (https://github.com/21st-dev/magic-mcp) 
 
-## Postgres MCP
+## Postgres
 (https://github.com/modelcontextprotocol/servers/tree/main/src/postgres)
 (https://github.com/upstash/mcp-server)
 
+## Vector
+(https://supabase.com/blog/automatic-embeddings) 
 ## Stripe MCP
 (https://github.com/stripe/agent-toolkit/tree/main/modelcontextprotocol)
 
