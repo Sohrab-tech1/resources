@@ -48,33 +48,40 @@ https://d1lamhf6l6yk6d.cloudfront.net/uploads/2025/03/250319-MCP-Market-Map-v2-x
 ## Language to interface directly in Cursor (enables "Vibe coding" as in V0/Loveable/ interface directly in Cursor)
 (https://github.com/21st-dev/magic-mcp) 
 
-## Postgres
+## Postgres MCP
 (https://github.com/modelcontextprotocol/servers/tree/main/src/postgres)
 (https://github.com/upstash/mcp-server)
 
-## Stripe
+## Stripe MCP
 (https://github.com/stripe/agent-toolkit/tree/main/modelcontextprotocol)
 
 
 ## Browserlogs in Cursor
 (https://github.com/AgentDeskAI/browser-tools-mcp)
 
+## Sanity (CMS) MCP
+(https://github.com/sanity-io/sanity-mcp-server/tree/main)
 
-## Slack
+
+## Slack MCP
 (https://github.com/modelcontextprotocol/servers/tree/main/src/slack)
 
 
 # Component libraries
 
 - [Tailwind CSS](https://tailwindcss.com/)
-- [Shadcn UI](https://ui.shadcn.com/)
+
 - [Tailwind CSS Components](https://tailwindcsscomponents.com/)
 - [Tailwind CSS Templates](https://tailwindtemplates.io/)
 - [Tailwind CSS Playground](https://play.tailwindcss.com/)
 
 ## Shadcn related
 
-– [marketing blocks ] (https://nsui.irung.me/)
+– [Shadcn UI](https://ui.shadcn.com/)
+- [marketing blocks ] (https://nsui.irung.me/)
+- [supabase UI] (https://supabase.com/ui)
+- [shadcnblocks] (https://www.shadcnblocks.com)
+
 
 # Remix
 
